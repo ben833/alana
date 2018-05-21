@@ -11,7 +11,7 @@
   "author": "Adam Juhasz",
   "license": "MIT",
   "dependencies": {
-    "@alana/core": "2.x",
+    "@alana/core": "https://github.com/ben833/core/tarball/update-natural",
     "@alana/platform-console": "1.x",
     "@alana/platform-web": "1.x",
     "bluebird": "^3.4.7",
